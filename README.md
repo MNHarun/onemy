@@ -1,2 +1,2 @@
-# onemy
+# OneMy
 OneMy help pages
