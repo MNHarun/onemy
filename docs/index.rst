@@ -5,6 +5,7 @@ OneMy help pages
 ----------------
 
 Code::
+
 Mapper.Initialize(x =>
     {
         x.CreateMap<BotUser, CrucialInfo>();
